@@ -1,17 +1,12 @@
-apiVersion: apps/v1
-kind: Deployment
+apiVersion: batch/v1
+kind: Job
 metadata:
   name: jenkinsdemo
 spec:
-  replicas: 1
-  selector:
-    matchLabels:
-      app: jenkinsdemo
   template:
-    metadata:
-      labels:
-        app: jenkinsdemo
     spec:
+      restartPolicy: Never
       containers:
         - name: jenkinsdemo
           image: us-east1-docker.pkg.dev/project-dcd1a2c8-b069-4b5b-8d4/jenkinsdemo/my-dotnet-app:latest
+  backoffLimit: 1
