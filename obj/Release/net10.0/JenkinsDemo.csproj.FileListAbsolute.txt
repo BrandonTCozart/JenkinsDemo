@@ -1,0 +1,14 @@
+C:\Users\Owner\JenkinsDemo\bin\Release\net10.0\JenkinsDemo.deps.json
+C:\Users\Owner\JenkinsDemo\bin\Release\net10.0\JenkinsDemo.dll
+C:\Users\Owner\JenkinsDemo\bin\Release\net10.0\JenkinsDemo.pdb
+C:\Users\Owner\JenkinsDemo\obj\Release\net10.0\JenkinsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\JenkinsDemo\obj\Release\net10.0\JenkinsDemo.AssemblyInfoInputs.cache
+C:\Users\Owner\JenkinsDemo\obj\Release\net10.0\JenkinsDemo.AssemblyInfo.cs
+C:\Users\Owner\JenkinsDemo\obj\Release\net10.0\JenkinsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Owner\JenkinsDemo\obj\Release\net10.0\JenkinsDemo.dll
+C:\Users\Owner\JenkinsDemo\obj\Release\net10.0\refint\JenkinsDemo.dll
+C:\Users\Owner\JenkinsDemo\obj\Release\net10.0\JenkinsDemo.pdb
+C:\Users\Owner\JenkinsDemo\obj\Release\net10.0\ref\JenkinsDemo.dll
+C:\Users\Owner\JenkinsDemo\bin\Release\net10.0\JenkinsDemo.exe
+C:\Users\Owner\JenkinsDemo\bin\Release\net10.0\JenkinsDemo.runtimeconfig.json
+C:\Users\Owner\JenkinsDemo\obj\Release\net10.0\JenkinsDemo.genruntimeconfig.cache

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "1MmEzr8nr9o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\JenkinsDemo\\JenkinsDemo.Tests\\JenkinsDemo.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\microsoft.codecoverage\\18.10.1\\microsoft.codecoverage.18.10.1.nupkg.sha512",
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\microsoft.net.test.sdk\\18.10.1\\microsoft.net.test.sdk.18.10.1.nupkg.sha512",
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\microsoft.testplatform.objectmodel\\18.10.1\\microsoft.testplatform.objectmodel.18.10.1.nupkg.sha512",
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\microsoft.testplatform.testhost\\18.10.1\\microsoft.testplatform.testhost.18.10.1.nupkg.sha512",
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\xunit\\2.9.3\\xunit.2.9.3.nupkg.sha512",
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\xunit.analyzers\\1.18.0\\xunit.analyzers.1.18.0.nupkg.sha512",
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\xunit.assert\\2.9.3\\xunit.assert.2.9.3.nupkg.sha512",
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\xunit.core\\2.9.3\\xunit.core.2.9.3.nupkg.sha512",
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\xunit.extensibility.core\\2.9.3\\xunit.extensibility.core.2.9.3.nupkg.sha512",
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\xunit.extensibility.execution\\2.9.3\\xunit.extensibility.execution.2.9.3.nupkg.sha512",
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\xunit.runner.visualstudio\\4.0.0\\xunit.runner.visualstudio.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: jenkinsdemo
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: jenkinsdemo
+  template:
+    metadata:
+      labels:
+        app: jenkinsdemo
+    spec:
+      containers:
+        - name: jenkinsdemo
+          image: us-east1-docker.pkg.dev/project-dcd1a2c8-b069-4b5b-8d4/jenkinsdemo/my-dotnet-app:latest

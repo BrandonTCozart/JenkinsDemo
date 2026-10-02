@@ -1,0 +1,5 @@
+C:\Users\Owner\JenkinsDemo\publish-test\JenkinsDemo.exe
+C:\Users\Owner\JenkinsDemo\publish-test\JenkinsDemo.dll
+C:\Users\Owner\JenkinsDemo\publish-test\JenkinsDemo.deps.json
+C:\Users\Owner\JenkinsDemo\publish-test\JenkinsDemo.runtimeconfig.json
+C:\Users\Owner\JenkinsDemo\publish-test\JenkinsDemo.pdb
